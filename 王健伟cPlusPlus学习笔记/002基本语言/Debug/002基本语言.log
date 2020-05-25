@@ -1,0 +1,4 @@
+﻿  源8.cpp
+d:\王健伟cplusplus学习笔记\002基本语言\源8.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  002基本语言.vcxproj -> D:\王健伟cPlusPlus学习笔记\Debug\002基本语言.exe
+  002基本语言.vcxproj -> D:\王健伟cPlusPlus学习笔记\Debug\002基本语言.pdb (Full PDB)
